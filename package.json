@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/shoppredigital/node-omniexotel/issues"
   },
-  "homepage": "https://github.com/shoppredigital/node-omniexotel#readme"
+  "homepage": "https://github.com/shoppredigital/node-omniexotel#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "xml2json": "^0.12.0"
+  }
 }
